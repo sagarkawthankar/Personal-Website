@@ -1,0 +1,33 @@
+img{
+  border-radius: 50%;
+  margin-bottom: 1em;
+}
+a {
+  color: Blue;
+}
+a:hover {
+  color: Blue;
+}
+#maincontainer{
+  margin-top: 65px;
+  margin-bottom: 40px;
+}
+footer {
+  background-color: #343a40;
+  color: #fff;
+  position: fixed;
+  bottom: 0px;
+  padding: 10px;
+  font-size: 11px;
+  width: 100%;
+}
+.section{
+  padding-top: 4em;
+}
+.one{
+  height: 150px;
+  width: 150px;
+}
+div{
+  text-align: justify;
+}
